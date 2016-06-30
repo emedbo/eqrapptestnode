@@ -1,0 +1,20 @@
+{
+  "name": "node-api-template-vscode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.ts",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emedbo/node-console-template-vscode.git"
+  },
+  "author": "",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "lodash": "^4.13.1",
+    "mongoose": "^4.4.19"
+  }
+}
